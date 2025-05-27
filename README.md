@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm an NLP and AI enthusiast from an Engineering background currently in Nepal.<br><br>🔭 I’m working on integrating NLP techniques such as tokenization, semantic analysis, and sentiment analysis into machine learning pipelines.<br><br>📚 I'm currently learning advanced applications of deep learning using frameworks like TensorFlow and PyTorch, and exploring AI algorithms like minimax, hill climbing, and alpha-beta pruning through real-world projects like Tic Tac Toe and Chess.<br><br>⚡ In my free time I build ML/NLP models using Python and Java, and experiment with deploying them through web applications using the Spring Boot framework.<br><br>🎓 I often collaborate with my Engineering Professors to clarify concepts and strengthen my understanding as I progress in my learning journey.</p>
+<p align="left">I'm an NLP and AI enthusiast from an Engineering background currently in Nepal. I’m working on integrating NLP techniques such as tokenization, semantic analysis, and sentiment analysis into machine learning pipelines. I'm currently learning advanced applications of deep learning using frameworks like TensorFlow and PyTorch, and exploring AI algorithms like minimax, hill climbing, and alpha-beta pruning through real-world projects like Tic Tac Toe and Chess. In my free time I build ML/NLP models using Python and Java, and experiment with deploying them through web applications using the Spring Boot framework. I often collaborate with my Engineering Professors to clarify concepts and strengthen my understanding as I progress in my learning journey.</p>
 
 ###
 
