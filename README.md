@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm an NLP and AI enthusiast from an Engineering background currently in Nepal. I’m working on integrating NLP techniques such as tokenization, semantic analysis, and sentiment analysis into machine learning pipelines. In my free time I build ML/NLP models using Python and Java, and experiment with deploying them through web applications using the Spring Boot framework. Working on research of Image Processing and Special Interest Group EEC under Assistant Professor Er. Nischal regmi. Involved in creating Earthquake Response Software Project with supervision of Dr. Er. Shailesh Pandey. Learning Scalalable Systems design, Engineering solutions guidance under Er. Santa Basnet. Working as Intern for Integrated ICT to build AI agents, intelligent solutions under Er. Birodh Rijal</p>
+<p align="left">I'm an NLP and AI enthusiast from an Engineering background currently in Nepal. I’m working on integrating NLP techniques such as tokenization, semantic analysis, and sentiment analysis into machine learning pipelines. In my free time I build ML/NLP models using Python and Java, and experiment with deploying them through web applications using the Spring Boot framework. Working on research of Image Processing and Special Interest Group EEC under Assistant Professor Er. Nischal regmi. Involved in creating Earthquake Response Software Project with supervision of Dr. Er. Shailesh Pandey. Learning Scalalable Systems design, Engineering solutions guidance under [Er. Santa Basnet](https://github.com/santabasnet). Working as Intern for Integrated ICT to build AI agents, intelligent solutions under Er. Birodh Rijal</p>
 
 ###
 
