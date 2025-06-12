@@ -29,10 +29,9 @@
 
 ###
 
-<p align="left">I'm an NLP and AI enthusiast from an Engineering background currently in Nepal. I’m working on integrating NLP techniques such as tokenization, semantic analysis, and sentiment analysis into machine learning pipelines. In my free time I build ML/NLP models using Python and Java, and experiment with deploying them through web applications using the Spring Boot framework. Working on research of Image Processing (Reckless Rider Recognition,etc.) and Special Interest Group EEC under Associate Professor <a href="https://www.linkedin.com/in/nischalregmi/?originalSubdomain=np" target="_blank">Er. Nischal regmi</a>. Involved in creating Earthquake Response Software Project with supervision of Dr. <a href="https://www.linkedin.com/in/shaileshbp/" target="_blank">Er. Shailesh Pandey.</a> Learning Scalalable Systems design, Engineering solutions guidance under <a href="https://github.com/santabasnet" target="_blank">Er. Santa Basnet</a> . Working as Intern for Integrated ICT to build AI agents, intelligent solutions under Er. Birodh Rijal</p>
-###
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left">I'm an NLP and AI enthusiast from an Engineering background currently in Nepal. I’m working on integrating NLP techniques such as tokenization, semantic analysis, and sentiment analysis into machine learning pipelines. In my free time I build ML/NLP models using Python and Java, and experiment with deploying them through web applications using the Spring Boot framework. Working on research of Image Processing (Reckless Rider Recognition,etc.) and Special Interest Group EEC under Associate Professor <a href="https://www.linkedin.com/in/nischalregmi/?originalSubdomain=np" target="_blank">Er. Nischal regmi</a>. Involved in creating Earthquake Response Software Project with supervision of Dr. <a href="https://www.linkedin.com/in/shaileshbp/" target="_blank">Er. Shailesh Pandey.</a> Learning Scalalable Systems design, Engineering solutions guidance under <a href="https://github.com/santabasnet" target="_blank">Er. Santa Basnet</a> . Working as Intern for Integrated ICT to build AI agents, intelligent solutions under <a href="https://www.linkedin.com/in/birodhrijal/?originalSubdomain=np" target="_blank">Er. Birodh Rijal</a></p>
 
+<h3 align="left">🛠 Language and tools</h3>
 
 
 ###
